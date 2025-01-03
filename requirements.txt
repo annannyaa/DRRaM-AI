@@ -5,4 +5,5 @@ networkx
 geopy
 flask_cors
 folium
+gunicorn
 scikit-learn
